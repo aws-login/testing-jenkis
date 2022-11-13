@@ -1,8 +1,0 @@
-[user]
-	email = aws.login28@gmail.com
-	name = aws-login
-	password = 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
-[credential]
-	helper = store
-[branch "master"]
-	merge = refs/heads/main
